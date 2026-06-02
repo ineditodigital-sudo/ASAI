@@ -1,0 +1,110 @@
+[
+  {
+    "id": "neumatica-01",
+    "name": "Válvulas Direccionales Neumáticas",
+    "category": "Neumática",
+    "keywords": ["válvula", "neumatica", "solenoide", "automatización", "aire"],
+    "description": "Válvulas de solenoide y pilotadas para control de cilindros de simple y doble efecto. Alta ciclicidad y respuesta rápida.",
+    "url": "/neumatica.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "neumatica-02",
+    "name": "Cilindros Neumáticos de Perfil ISO",
+    "category": "Neumática",
+    "keywords": ["cilindro", "piston", "neumatico", "iso 15552", "automatización"],
+    "description": "Cilindros de doble efecto de perfil de aluminio anodizado. Diámetros desde 32mm hasta 125mm con amortiguación ajustable.",
+    "url": "/neumatica.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "neumatica-03",
+    "name": "Unidades de Preparación de Aire FRL",
+    "category": "Neumática",
+    "keywords": ["frl", "filtro", "regulador", "lubricador", "manómetro"],
+    "description": "Sistemas de filtración, regulación y lubricación para garantizar aire limpio y seco libre de condensados a tus equipos.",
+    "url": "/neumatica.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "hidraulica-01",
+    "name": "Manguera Hidráulica Sinopulse 1SN / 2SN",
+    "category": "Hidráulica",
+    "keywords": ["manguera", "hidraulica", "sinopulse", "alta presion", "trenza de acero"],
+    "description": "Manguera reforzada con una o dos trenzas de alambre de acero de alta resistencia. Ideal para fluidos hidráulicos a base de petróleo y agua.",
+    "url": "/hidraulica.html",
+    "image": "/wp-content/uploads/2025/10/sinopulse.webp"
+  },
+  {
+    "id": "hidraulica-02",
+    "name": "Manguera Hidráulica de Extrema Presión 4SH / 4SP",
+    "category": "Hidráulica",
+    "keywords": ["manguera", "extrema presion", "espiral de acero", "hidraulica", "4sh", "4sp"],
+    "description": "Manguera reforzada con cuatro espirales de alambre de acero. Diseñada para sistemas hidráulicos de alta vibración y picos de presión.",
+    "url": "/hidraulica.html",
+    "image": "/wp-content/uploads/2025/10/sinopulse.webp"
+  },
+  {
+    "id": "hidraulica-03",
+    "name": "Manguera para Vapor de Alta Presión",
+    "category": "Hidráulica",
+    "keywords": ["manguera", "vapor", "alta temperatura", "presion", "industrial"],
+    "description": "Diseñada para la conducción de vapor saturado y sobrecalentado en sistemas de calefacción, limpieza y procesos industriales en México.",
+    "url": "/mangueras-para-vapor-de-alta-presion.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "industrial-01",
+    "name": "Acoples Tipo Cam Lock (A, B, C, D, E, F, DC, DP)",
+    "category": "Cam Lock",
+    "keywords": ["cam lock", "acople rapido", "camlock", "aluminio", "bronce", "acero inoxidable"],
+    "description": "Coples rápidos de levas para transferencia de líquidos, combustibles y productos químicos. Disponibles en aluminio, bronce y acero inoxidable.",
+    "url": "/cam-lock.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "industrial-02",
+    "name": "Abrazaderas de Alta Presión Tipo T-Bolt",
+    "category": "Accesorios",
+    "keywords": ["abrazadera", "t-bolt", "sin fin", "tension", "sujecion", "manguera"],
+    "description": "Abrazaderas de tornillo en T fabricadas en acero inoxidable. Máxima tensión y sujeción uniforme para mangueras de pared gruesa.",
+    "url": "/accesorios.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "adaptador-01",
+    "name": "Adaptadores Hidráulicos Roscas JIC y NPT",
+    "category": "Adaptadores",
+    "keywords": ["adaptador", "jic", "npt", "macho", "hembra", "conexion", "acero"],
+    "description": "Adaptadores rectos, codos de 90 y 45 grados en acero al carbón y acero inoxidable. Cumplen normas SAE J514.",
+    "url": "/adaptadores.html",
+    "image": "/wp-content/uploads/2025/10/almacen-logistico-con-cajas-borrosas.webp"
+  },
+  {
+    "id": "cople-01",
+    "name": "Coples Rápidos Hidráulicos ISO 7241-A / B",
+    "category": "Coples Rápidos",
+    "keywords": ["cople rapido", "cople hidraulico", "desconexión rapida", "cople", "iso 7241"],
+    "description": "Coples rápidos de bola y cara plana. Evitan fugas y pérdidas de fluido durante la desconexión en sistemas hidráulicos móviles.",
+    "url": "/coples-rapidos.html",
+    "image": "/wp-content/uploads/2025/10/sinopulse.webp"
+  },
+  {
+    "id": "cople-02",
+    "name": "Coples Rápidos Neumáticos de Intercambio Industrial",
+    "category": "Coples Rápidos",
+    "keywords": ["cople neumatico", "macho neumatico", "acople rapido", "aire comprimido"],
+    "description": "Coples y niples de latón y acero para conexión rápida de herramientas neumáticas e instalaciones de aire comprimido.",
+    "url": "/coples-rapidos.html",
+    "image": "/wp-content/uploads/2025/10/sinopulse.webp"
+  },
+  {
+    "id": "equipo-01",
+    "name": "Crimpadora / Prensa de Mangueras Hidráulicas",
+    "category": "Equipos",
+    "keywords": ["crimpadora", "prensa", "armado manguera", "maquinaria", "ensamble"],
+    "description": "Equipos profesionales para el prensado y armado de mangueras hidráulicas de alta y extrema presión. Modelos manuales y eléctricos.",
+    "url": "/equipos.html",
+    "image": "/wp-content/uploads/2025/10/sinopulse.webp"
+  }
+]
