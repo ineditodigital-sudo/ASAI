@@ -2105,3 +2105,37 @@ header#masthead {
         border-radius: 8px !important;
     }
 }
+\n
+/* AEO & GEO Visual Enhancements */
+.aeo-quick-answer {
+    background-color: #f8fbff;
+    border-left: 5px solid #00147d;
+    padding: 20px 25px;
+    margin: 30px 0;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+    font-family: 'Montserrat', sans-serif;
+}
+.aeo-quick-answer-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #00147d;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.aeo-quick-answer-title svg {
+    width: 20px;
+    height: 20px;
+    fill: #00147d;
+}
+.aeo-quick-answer p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+}
+.aeo-quick-answer strong {
+    color: #00147d;
+}
