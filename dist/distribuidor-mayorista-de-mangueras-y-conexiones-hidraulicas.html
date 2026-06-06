@@ -3,13 +3,7 @@ resturl: '/wp-json/elementskit/v1/',
 }</script><script data-cfasync="false" src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> <script data-cfasync="false" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> <script id="jquery-js-after">!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
 !function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
 //# sourceURL=jquery-js-after</script> 
-<script src="https://www.googletagmanager.com/gtag/js?id=GT-55B3HQN9" id="google_gtagjs-js" async></script> <script id="google_gtagjs-js-after">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-gtag("set","linker",{"domains":["asaiint.com"]});
-gtag("js", new Date());
-gtag("set", "developer_id.dZTNiMT", true);
-gtag("config", "GT-55B3HQN9");
-window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
-//# sourceURL=google_gtagjs-js-after</script> <link rel="https://api.w.org/" href="/wp-json" /><link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/4534" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" /><meta name="generator" content="WordPress 6.9.4" /><link rel='shortlink' href='/?p=4534' /><meta name="generator" content="Site Kit by Google 1.178.0" /><meta name="generator" content="Elementor 4.0.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-disabled, font_display-swap"> <script type="application/ld+json">{
+<link rel="https://api.w.org/" href="/wp-json" /><link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/4534" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" /><meta name="generator" content="WordPress 6.9.4" /><link rel='shortlink' href='/?p=4534' /><meta name="generator" content="Site Kit by Google 1.178.0" /><meta name="generator" content="Elementor 4.0.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-disabled, font_display-swap"> <script type="application/ld+json">{
 "@context": "https://schema.org",
 "@type": "FAQPage",
 "mainEntity": [
@@ -839,6 +833,30 @@ document.addEventListener('DOMContentLoaded', function() {
         img.addEventListener('click', function() { window.location.href = '/'; });
     });
 });
+</script>
+
+
+<script>
+  function asaiLoadAnalytics() {
+    if(window.asaiAnalyticsLoaded) return;
+    window.asaiAnalyticsLoaded = true;
+    
+    // GTM
+    var gtm = document.createElement('script');
+    gtm.src = "https://www.googletagmanager.com/gtag/js?id=GT-55B3HQN9";
+    document.body.appendChild(gtm);
+    
+    window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+    gtag("set","linker",{"domains":["asaiint.com"]});gtag("js",new Date());gtag("set","developer_id.dZTNiMT",true);gtag("config","GT-55B3HQN9");
+
+    // FB Pixel
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init','822861206703929');fbq('track','PageView');
+  }
+  ['mousemove','scroll','touchstart','click'].forEach(function(e) {
+      window.addEventListener(e, asaiLoadAnalytics, {once:true});
+  });
+  setTimeout(asaiLoadAnalytics, 6000);
 </script>
 
 </body></html><!-- WP Fastest Cache file was created in 3.969 seconds, on May 5, 2026 @ 12:40 pm -->
